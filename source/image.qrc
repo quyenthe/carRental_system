@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>CoverMain.png</file>
+        <file>profile.png</file>
+        <file>rose2.png</file>
+        <file>createRide.png</file>
+        <file>rideCar.png</file>
+        <file>search.png</file>
+        <file>road2.png</file>
+    </qresource>
+</RCC>
